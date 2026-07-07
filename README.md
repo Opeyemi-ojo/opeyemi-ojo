@@ -3,9 +3,6 @@
 Full-Stack Software Engineer | SaaS & AI Product Developer
 
 
-**Hi 👋, I'm Opeyemi Ojo
-
-Full-Stack Software Engineer | SaaS & AI Product Developer
 
 I build modern web applications, business dashboards, and AI-powered SaaS products that solve real-world business challenges.
 
